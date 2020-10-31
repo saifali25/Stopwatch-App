@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_app_launch_icon.png.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\mipmap-xxxhdpi\\app_launch_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icanchor.png.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\drawable\\icanchor.png"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_launch_icon_foreground.png.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\mipmap-mdpi\\app_launch_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zero_star.png.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\drawable\\zero_star.png"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_launch_icon_round.png.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\mipmap-mdpi\\app_launch_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_threestar.png.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\drawable\\threestar.png"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_app_launch_icon_foreground.png.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\mipmap-xxxhdpi\\app_launch_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_app_launch_icon_background.png.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\mipmap-xxhdpi\\app_launch_icon_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_feedback.xml.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\layout\\activity_feedback.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_app_launch_icon_round.png.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\mipmap-xxxhdpi\\app_launch_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_feedbackbtn.xml.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\drawable\\bg_feedbackbtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_launch_icon_background.png.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\mipmap-mdpi\\app_launch_icon_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_launch_icon_background.xml.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\drawable\\app_launch_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_greenbtn.xml.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\drawable\\bg_greenbtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_app_launch_icon.png.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\mipmap-hdpi\\app_launch_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\anim_roundingalone.xml.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\anim\\roundingalone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_launch_icon.xml.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\mipmap-anydpi-v26\\app_launch_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\font_open_sans_light.xml.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\font\\open_sans_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_app_launch_icon.png.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\mipmap-xxhdpi\\app_launch_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_launch_icon.png.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\mipmap-mdpi\\app_launch_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_app_launch_icon_round.png.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\mipmap-hdpi\\app_launch_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_redbtn.xml.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\drawable\\bg_redbtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_stopwatcch.xml.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\layout\\activity_stopwatcch.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_bold.xml.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\font\\montserrat_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_app_launch_icon_background.png.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\mipmap-xhdpi\\app_launch_icon_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_app_launch_icon_round.png.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\mipmap-xxhdpi\\app_launch_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bgcircle.png.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\drawable\\bgcircle.png"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_feedbacklayout.xml.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\drawable\\bg_feedbacklayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icget.png.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\drawable\\icget.png"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\anim_btgtwo.xml.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\anim\\btgtwo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_twostar.png.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\drawable\\twostar.png"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\anim_atg.xml.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\anim\\atg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_app_launch_icon_background.png.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\mipmap-hdpi\\app_launch_icon_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_app_launch_icon.png.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\mipmap-xhdpi\\app_launch_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_app_launch_icon_background.png.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\mipmap-xxxhdpi\\app_launch_icon_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_launch_icon_round.xml.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\mipmap-anydpi-v26\\app_launch_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_app_launch_icon_foreground.png.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\mipmap-hdpi\\app_launch_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fivestar.png.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\drawable\\fivestar.png"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\anim_btgone.xml.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\anim\\btgone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_app_launch_icon_round.png.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\mipmap-xhdpi\\app_launch_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_launch_icon_foreground.xml.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\drawable\\app_launch_icon_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat.xml.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\font\\montserrat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_app_launch_icon_foreground.png.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\mipmap-xhdpi\\app_launch_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\font_khula_bold.xml.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\font\\khula_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fourstar.png.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\drawable\\fourstar.png"
+    },
+    {
+        "merged": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_app_launch_icon_foreground.png.flat",
+        "source": "C:\\Users\\Saif Ali\\AndroidStudioProjects\\Stopwatch\\app\\src\\main\\res\\mipmap-xxhdpi\\app_launch_icon_foreground.png"
+    }
+]

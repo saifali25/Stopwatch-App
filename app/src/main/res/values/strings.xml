@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Stopwatch</string>
+    <string name="get_started">Get Started</string>
+    <string name="healthy_on_you">Healthy On You</string>
+    <string name="sub_text">Key of happiness in life has nothing to do with money</string>
+    <string name="start_now">Start Now</string>
+    <string name="finish_workout">Finish Workout</string>
+    <string name="give_feedback">Give Feedback</string>
+    <string name="rate_this_service">Rate this service</string>
+    <string name="zero_star">Just So So!!</string>
+    <string name="two_star">Can be better!!</string>
+    <string name="three_star">Good!!</string>
+    <string name="four_star">Very Good!!</string>
+    <string name="five_star">Excellent!!</string>
+</resources>

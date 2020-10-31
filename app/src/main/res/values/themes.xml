@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Stopwatch" parent="Theme.MaterialComponents.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#48B9AC</item>
+        <item name="colorPrimaryVariant">#48B9AC</item>
+        <item name="colorOnPrimary">#FF769A</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="Theme.StopwatchApp" parent = "ThemeOverlay.AppCompat">
+        <item name="colorPrimary">#211D44</item>
+        <item name="colorPrimaryVariant">#211D44</item>
+        <item name="colorOnPrimary">#211D44</item>
+    </style>
+</resources>

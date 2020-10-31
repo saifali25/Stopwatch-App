@@ -1,0 +1,64 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.stopwatch"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\Users\Saif Ali\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\Saif Ali\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\Saif Ali\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:5:5-27:19
+12        android:allowBackup="true"
+12-->C:\Users\Saif Ali\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.3.2] C:\Users\Saif Ali\.gradle\caches\transforms-2\files-2.1\7aac5c5c522df5bfe2bbd59f99e79e78\core-1.3.2\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:extractNativeLibs="false"
+16        android:icon="@mipmap/app_launch_icon"
+16-->C:\Users\Saif Ali\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:7:9-47
+17        android:label="@string/app_name"
+17-->C:\Users\Saif Ali\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:8:9-41
+18        android:roundIcon="@mipmap/app_launch_icon_round"
+18-->C:\Users\Saif Ali\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:9:9-58
+19        android:supportsRtl="true"
+19-->C:\Users\Saif Ali\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:10:9-35
+20        android:testOnly="true"
+21        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+21-->C:\Users\Saif Ali\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:11:9-65
+22        <activity android:name="com.example.stopwatch.FeedbackActivity" />
+22-->C:\Users\Saif Ali\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:12:9-54
+22-->C:\Users\Saif Ali\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:12:19-51
+23        <activity android:name="com.example.stopwatch.StopwatcchActiivity" />
+23-->C:\Users\Saif Ali\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:13:9-57
+23-->C:\Users\Saif Ali\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:13:19-54
+24        <activity
+24-->C:\Users\Saif Ali\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:14:9-22:20
+25            android:name="com.example.stopwatch.MainActivity"
+25-->C:\Users\Saif Ali\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:15:13-41
+26            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+26-->C:\Users\Saif Ali\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:16:13-69
+27            <intent-filter>
+27-->C:\Users\Saif Ali\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:17:13-21:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->C:\Users\Saif Ali\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:18:17-69
+28-->C:\Users\Saif Ali\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:18:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->C:\Users\Saif Ali\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:20:17-77
+30-->C:\Users\Saif Ali\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:20:27-74
+31            </intent-filter>
+32        </activity>
+33
+34        <meta-data
+34-->C:\Users\Saif Ali\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:24:9-26:57
+35            android:name="preloaded_fonts"
+35-->C:\Users\Saif Ali\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:25:13-43
+36            android:resource="@array/preloaded_fonts" />
+36-->C:\Users\Saif Ali\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:26:13-54
+37    </application>
+38
+39</manifest>
